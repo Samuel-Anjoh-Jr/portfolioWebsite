@@ -13,7 +13,7 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-# 📖 Portfolio Project: Desktop version<a name="about-project"></a>
+# 📖 Portfolio Project: Mobile version<a name="about-project"></a>
 
 This webpage demonstrates a project I created and deployed using my skills in HTML and CSS. It is a portfolio landing page that showcases your previous experience.
 
